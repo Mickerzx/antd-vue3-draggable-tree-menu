@@ -1,5 +1,9 @@
 # antd-vue3-draggable-tree-menu
 
+<p align="center">
+  <img src="./src/assets/example.gif"  >
+</p>
+
 ## Project setup
 ```
 yarn install
